@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all of your work local?
+Because other devs may be updating files and you may not want their changes.  
